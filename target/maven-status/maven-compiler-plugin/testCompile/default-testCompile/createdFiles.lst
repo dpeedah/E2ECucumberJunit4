@@ -1,0 +1,4 @@
+cucumbertests\CucumberTest.class
+pomPages\CarTaxHomePage.class
+pomPages\FreeCheckPage.class
+cucumbertests\MyStepdefs.class
